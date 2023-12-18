@@ -1,0 +1,14 @@
+1) What is Java?
+
+Java is the high-level, object-oriented, robust, secure programming language, platform-independent, high performance, Multithreaded, and portable programming language. It was developed by James Gosling in June 1991. It can also be known as the platform as it provides its own JRE and API. 
+
+
+2)Why Java is platform independent interview questions?
+Java language was developed in such a way that it does not depend on any hardware or software due to the fact that the compiler compiles the code and then converts it to platform-independent byte code which can be run on multiple systems.
+  The only condition to run that byte code is for the machine to have a runtime environment (JRE) installed in it
+
+3)Why is Java not a pure object oriented language?
+ 
+Java supports primitive data types - byte, boolean, char, short, int, float, long, and double and hence it is not a pure object oriented language.
+
+
