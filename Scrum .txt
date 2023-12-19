@@ -1,0 +1,7 @@
+Scrum 
+
+1) story has to be divide into sub task
+2) give the original estimate to the sub task only but do not give it to story
+3) story point are to be given to story only 
+
+4 ) sub task are given estimate in form of hours
